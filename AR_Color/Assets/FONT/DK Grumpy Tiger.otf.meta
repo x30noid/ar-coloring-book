@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 471e8d86eae3c774ca8e22fb442161c6
+timeCreated: 1520590887
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Grumpy Tiger
+  fontNames:
+  - DK Grumpy Tiger
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
